@@ -5,9 +5,9 @@ This project involves a linear regression analysis to predict if the company sho
 
 
 ## Table of Contents
-- [Description] (#description)
-- [Installation] (#installation)
-- [Data] (#data)
+- [Description](#description)
+- [Installation](#installation)
+- [Data](#data)
 
 # Clone the repository
 git clone https://github.com/eley90/Linear-Regression.git
