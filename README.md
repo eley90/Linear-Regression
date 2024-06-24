@@ -24,4 +24,4 @@ It has Customer info, such as Email, Address, and their color Avatar. Then it al
 pip install -r requirements.txt
 
 # Open Jupyter Notebook
-jupyter notebook notebook_name.ipynb
+jupyter notebook LinearReg_project.ipynb
